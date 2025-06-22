@@ -10,16 +10,6 @@
 
 
 
-<p align="center"> 
-<a href ="https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=46fed6279b484e5a" target="spotify"> <img src="https://gleeful-centaur-c56205.netlify.app/" width="300" /> </a> </p>
-
-
-
-
-
-[![Now Playing](https://gleeful-centaur-c56205.netlify.app/preview.png)](https://gleeful-centaur-c56205.netlify.app/)
-
-
 
 
 <div> 
